@@ -1,0 +1,25 @@
+{
+  "name": "ifeerv",
+  "version": "1.0.0",
+  "description": "If Function Execute Else Return Value",
+  "main": "index.js",
+  "dependencies": {
+    "tape": "^4.6.2"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wankdanker/node-ifeerv.git"
+  },
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/node-ifeerv/issues"
+  },
+  "homepage": "https://github.com/wankdanker/node-ifeerv#readme"
+}
